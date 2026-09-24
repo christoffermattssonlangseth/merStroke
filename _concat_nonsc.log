@@ -1,0 +1,56 @@
+Concatenating 49 non-SC regions (SC excluded).
+  loaded 1005_glast_dmcao_5d_1                    cells=  60283 genes=500
+  loaded 1005_glast_dmcao_5d_2                    cells=  80060 genes=500
+  loaded 1149_glast_dmcao_clp_7d_1                cells= 136505 genes=500
+  loaded 1149_glast_dmcao_clp_7d_2                cells= 151686 genes=500
+  loaded 1149_glast_dmcao_clp_7d_3                cells= 124845 genes=500
+  loaded 1149_glast_dmcao_clp_7d_4                cells=  46302 genes=500
+  loaded 1149_glast_dmcao_clp_7d_5                cells=  89511 genes=500
+  loaded 1151_glast_dmcao_lip_7d_1                cells=  83351 genes=500
+  loaded 1151_glast_dmcao_lip_7d_2                cells=  46312 genes=500
+  loaded 122_mrc1_dcmao_1                         cells=  66000 genes=500
+  loaded 122_mrc1_dcmao_2                         cells=  69213 genes=500
+  loaded 122_mrc1_dcmao_3                         cells=  26753 genes=500
+  loaded 139_mrc1_dmcao_5d_1                      cells= 161673 genes=500
+  loaded 139_mrc1_dmcao_5d_2                      cells=  76003 genes=500
+  loaded 139_mrc1_dmcao_5d_3                      cells=  67746 genes=500
+  loaded 141_mrc1_dmcao_14d_1                     cells= 112234 genes=500
+  loaded 141_mrc1_dmcao_14d_2                     cells= 125823 genes=500
+  loaded 141_mrc1_dmcao_14d_3                     cells=  66223 genes=500
+  loaded 141_mrc1_dmcao_14d_4                     cells= 145633 genes=500
+  loaded 182_mrc1_uninjured                       cells= 115700 genes=500
+  loaded 26_mrc1_tcmao_14d                        cells=  23190 genes=500
+  loaded 27_mrc1_uninjured                        cells=  21596 genes=500
+  loaded 465_col1a1_tmcao_5d                      cells=   7214 genes=500
+  loaded 467_col1a1_uninjured                     cells=   9997 genes=500
+  loaded 51_mrc1_dcmao_14d                        cells=  60367 genes=500
+  loaded 537_col1a1_dmcao_5d                      cells=   7488 genes=500
+  loaded 54_mrc1_dcmao_5d                         cells=  13895 genes=500
+  loaded 58_mrc1_tcmao_14d                        cells=  55022 genes=500
+  loaded 609_glast_dmcao_14d                      cells=  16810 genes=500
+  loaded 60_mrc1_dcmao_5d                         cells=  23820 genes=500
+  loaded 619_col1a1_tmcao_14d                     cells= 143446 genes=500
+  loaded 700_glast_dmcao_5d                       cells=  12850 genes=500
+  loaded 751_col1a1_tmcao_5d                      cells=   6481 genes=500
+  loaded 790_glast_dmcao_14d_1                    cells= 132941 genes=500
+  loaded 790_glast_dmcao_14d_2                    cells= 113643 genes=500
+  loaded 860_glast_tmcao_14d                      cells= 189536 genes=500
+  loaded 899_glast_tmcao_5d_1                     cells= 148638 genes=500
+  loaded 899_glast_tmcao_5d_2                     cells=  80174 genes=500
+  loaded 899_glast_tmcao_5d_3                     cells=  95922 genes=500
+  loaded 900_glast_dmcao_14d                      cells= 114056 genes=500
+  loaded 934_glast_dmcao_14d_1                    cells=  74259 genes=500
+  loaded 934_glast_dmcao_14d_2                    cells= 145921 genes=500
+  loaded 972_glast_uninjured_1                    cells=  72328 genes=500
+  loaded 972_glast_uninjured_2                    cells=  48660 genes=500
+  loaded 972_glast_uninjured_3                    cells=  29469 genes=500
+  loaded B465_col1a1_tmcao_5d                     cells=  43990 genes=500
+  loaded B470_col1a1_dmcao_14d                    cells=  22668 genes=500
+  loaded B647_col1a1_dmcao_5d                     cells=  71484 genes=500
+  loaded B751_col1a1_tmcao_5d                     cells=  23429 genes=500
+AnnData object with n_obs × n_vars = 3661150 × 500
+    obs: 'x', 'y', 'z', 'cluster', 'n_transcripts', 'density', 'elongation', 'area', 'avg_confidence', 'avg_assignment_confidence', 'max_cluster_frac', 'lifespan', 'sample'
+    obsm: 'spatial'
+
+Wrote /Volumes/T7/Stroke_merscop_Fan_CG/h5ad/stroke_all.h5ad  (3661150 cells, 500 genes)
+Verified: no SC samples present.
